@@ -28,15 +28,15 @@
 
 <h2 align="center"> 𝙲𝙾𝙽𝙽𝙴𝙲𝚃  𝚆𝙸𝚃𝙷  𝙼𝙴</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/yashwanthL184u">
+  <a href="www.linkedin.com/in/vamshiga">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/YashwanthL18">
+  <a href="https://github.com/vamshi7879">
     <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:yashwanth184u@gmail.com">
+  <a href="mailto:vamshiga06@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail"/>
   </a>
 </p>
