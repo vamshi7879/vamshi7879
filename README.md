@@ -156,27 +156,29 @@
 
 <br><br>
 
-<h1 align="center"> 𝙶𝙸𝚃𝙷𝚄𝙱  𝚂𝚃𝙰𝚃𝚂</h1>
+
+<h1 align="center">𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YashwanthL18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vamshi7879&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=YashwanthL18&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=vamshi7879&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashwanthL18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vamshi7879&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <br><br>
-<h1 align="center"> 𝙶𝙸𝚃𝙷𝚄𝙱  𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂</h1>
+
+<h1 align="center">𝙶𝙸𝚃𝙷𝚄𝙱 𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashwanthL18&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vamshi7879&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<h1 align="center"> 𝚃𝙾𝙿  𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝙳  𝚁𝙴𝙿𝙾</h1>
+<h1 align="center">𝚃𝙾𝙿 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙴𝙳 𝚁𝙴𝙿𝙾</h1>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YashwanthL18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=vamshi7879&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- GitHub Profile README for Vamshi G A -->
