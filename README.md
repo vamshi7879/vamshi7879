@@ -3,6 +3,12 @@
 </p>
 
 
+<h2 align="center">Profile Visitors</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vamshi7879&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 </p>
 
@@ -28,7 +34,7 @@
 
 <h2 align="center"> 𝙲𝙾𝙽𝙽𝙴𝙲𝚃  𝚆𝙸𝚃𝙷  𝙼𝙴</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/vamshiga">
+  <a href="https://www.linkedin.com/in/vamshiga">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
