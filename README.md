@@ -1,289 +1,534 @@
- <!-- GitHub Profile README | Vamshi G A -->
+ <!-- VAMSHI G A | CYBERSECURITY & AI/ML PROFILE -->
 
 <p align="center">
-  <img src="lv_0_20261105225615.gif" alt="Cybersecurity Banner" width="100%" />
+  <img src="lv_0_20261105225615.gif" width="100%" alt="Cybersecurity Banner"/>
 </p>
 
 <h1 align="center">VAMSHI G A</h1>
 
-<h3 align="center">
-  Cybersecurity Student | Security Research Enthusiast | AI/ML Developer
-</h3>
+<h3 align="center">CYBERSECURITY | AI/ML | SECURITY ENGINEERING | RESEARCH</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Exploring+Offensive+%26+Defensive+Security;Building+AI-Powered+Security+Solutions;Learning+Threat+Detection+%26+Hunting;Securing+Applications+%26+Digital+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Defensive+Security;Advanced+Threat+Detection+%26+Research;Cloud+Security+%7C+DevSecOps;AI%2FML+%7C+Artificial+Intelligence+Security;Engineering+Secure+Digital+Infrastructure" alt="Cybersecurity Typing"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vamshi7879">
-    <img src="https://komarev.com/ghpvc/?username=vamshi7879&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/vamshi7879?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=vamshi7879&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/vamshi7879?style=for-the-badge&color=blue&label=FOLLOWERS"/>
 </p>
 
 ---
 
-## WHO AM I?
+## ABOUT
 
-I'm a Computer Science and Engineering student specializing in **Cybersecurity and Information Security** at GM University, India.
+Cybersecurity and AI/ML enthusiast focused on understanding, analyzing, and securing modern digital infrastructure.
 
-I'm passionate about understanding how systems are attacked, how vulnerabilities are discovered, and how intelligent security solutions can protect modern digital infrastructure.
+My technical interests span offensive security, defensive security, application security, cloud infrastructure, machine learning, and intelligent threat detection.
 
-My interests combine cybersecurity, artificial intelligence, machine learning, and software engineering to build practical security solutions.
+I focus on developing practical technical knowledge across the cybersecurity lifecycle — from vulnerability discovery and exploitation analysis to threat detection, incident response, and security engineering.
 
-- 🔐 Exploring **Offensive Security, Ethical Hacking & Penetration Testing**
-- 🛡️ Developing knowledge in **SOC Operations, Blue Team & Threat Hunting**
-- 🤖 Building **AI/ML-powered cybersecurity applications**
-- 🌐 Learning **Web Application Security & Secure Software Development**
-- ☁️ Exploring **Cloud Security, DevSecOps & Infrastructure Security**
-- 🧪 Practicing through CTFs, security labs and hands-on projects
-- 🚀 Interested in Security Research, Application Security and AI Security
-
-**Mission:** Understand attacks. Engineer defenses. Build intelligent security solutions.
-
----
-
-## CYBERSECURITY DOMAINS
-
-| Domain | Areas of Focus |
-|---|---|
-| 🔴 Offensive Security | Ethical Hacking, Reconnaissance, Enumeration, Penetration Testing |
-| 🔵 Defensive Security | SOC Operations, SIEM, Incident Response, Threat Hunting |
-| 🌐 Application Security | OWASP Top 10, API Security, Secure Code Review |
-| ☁️ Cloud Security | AWS Security, IAM, Cloud Infrastructure Protection |
-| ⚙️ DevSecOps | CI/CD Security, SAST, DAST, Container Security |
-| 🧠 AI & ML Security | Adversarial ML, AI Threat Detection, Security Automation |
-| 🔬 Security Research | Vulnerability Assessment, Exploit Analysis, Digital Forensics |
+**Core Interests**
+- Offensive Security & Red Team Operations
+- Defensive Security & Security Operations
+- Vulnerability Research & Exploit Analysis
+- Application & API Security
+- Cloud Security & DevSecOps
+- Digital Forensics & Incident Response
+- Artificial Intelligence & Machine Learning
+- AI Security & Adversarial Machine Learning
+- Threat Intelligence & Detection Engineering
 
 ---
 
-## TECHNICAL SKILLS & TECHNOLOGIES
+# CYBERSECURITY TECHNOLOGY STACK
 
-### 🔴 Offensive Security & Penetration Testing
+## 01. FOUNDATION — SECURITY FUNDAMENTALS
+
+<details open>
+<summary><b>Networking, Operating Systems & Security Fundamentals</b></summary>
+<br/>
+
+**Security Fundamentals**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" />
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" />
+<img src="https://img.shields.io/badge/Password_Security-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MFA-Authentication-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antivirus-Endpoint_Security-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Encryption-Data_Protection-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firewalls-Network_Defense-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Phishing-Security_Awareness-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN-Secure_Communication-blue?style=for-the-badge"/>
 </p>
 
-**Learning areas:** Nmap, Burp Suite, Metasploit, Wireshark, OWASP, Web Exploitation, Network Security, Vulnerability Assessment, Active Directory Security.
+**Networking**
 
-### 🔵 Blue Team & Security Operations
+- TCP/IP, UDP, ICMP
+- OSI Model
+- DNS, DHCP, ARP
+- HTTP / HTTPS
+- TLS / SSL
+- Subnetting and Routing
+- Network Segmentation
+- Ports and Protocols
+
+**Operating Systems**
 
 <p>
-  <img src="https://cdn.simpleicons.org/splunk/000000" height="48" />
-  <img src="https://cdn.simpleicons.org/elastic/005571" height="48" />
-  <img src="https://cdn.simpleicons.org/securityscorecard/000000" height="48" />
-  <img src="https://skillicons.dev/icons?i=linux,powershell" />
+<img src="https://skillicons.dev/icons?i=linux,windows,kali,bash,powershell"/>
 </p>
 
-**Learning areas:** SOC Operations, SIEM, Log Analysis, Threat Intelligence, Incident Response, Digital Forensics, MITRE ATT&CK, Detection Engineering, Endpoint Detection and Response.
+- Linux Administration
+- Windows Security
+- File Permissions
+- User and Group Management
+- System Hardening
+- Patch Management
+- Backup and Recovery
+- Log Management
 
-### 💻 Programming & Scripting
+**Network Analysis**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,powershell" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="42"/>
+<img src="https://cdn.simpleicons.org/nmap/4A90A4" height="42"/>
 </p>
 
-**Focus:** Python Automation, Security Scripting, Data Structures, Algorithms, API Development and Secure Coding.
+- Wireshark
+- Nmap
+- Network Troubleshooting
+- Packet Analysis
+- Network Discovery
 
-### 🤖 Artificial Intelligence & Machine Learning
+</details>
+
+## 02. INTERMEDIATE — SECURITY OPERATIONS & ETHICAL HACKING
+
+<details open>
+<summary><b>Red Team, Blue Team, SOC & Application Security</b></summary>
+<br/>
+
+**🔴 Offensive Security & Penetration Testing**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
 </p>
 
-**Learning areas:** Machine Learning, Deep Learning, Neural Networks, Data Analysis, Anomaly Detection, Classification, Feature Engineering, Model Evaluation, Adversarial Machine Learning and AI Security.
+- Vulnerability Assessment
+- Penetration Testing Methodologies
+- Reconnaissance & Enumeration
+- Web Application Penetration Testing
+- API Security Testing
+- Authentication & Authorization Testing
+- Privilege Escalation
+- Password Security Testing
+- Network Penetration Testing
+- OWASP Top 10
+- OWASP API Security Top 10
 
-### 🌐 Web Development & Application Security
+**🔵 Blue Team & SOC Operations**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind" />
+<img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-Security_Monitoring-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender-Endpoint_Security-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-Security-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 </p>
 
-**Focus:** Full-Stack Development, Authentication, Authorization, Secure APIs, Web Application Testing, OWASP Top 10 and Secure Architecture.
+- Security Operations Center (SOC)
+- SIEM Monitoring & Log Analysis
+- Security Event Correlation
+- Threat Hunting
+- Incident Response
+- Endpoint Detection & Response (EDR)
+- Intrusion Detection & Prevention (IDS/IPS)
+- Security Alert Investigation
+- Threat Intelligence
+- Detection Engineering
+- MITRE ATT&CK Framework
 
-### 🗄️ Databases & Data Engineering
+**Network Intrusion Detection**
+
+- Snort
+- Suricata
+- Zeek
+- Network Traffic Analysis
+- Signature-Based Detection
+- Anomaly-Based Detection
+
+**Digital Forensics**
+
+- Digital Evidence Collection
+- File System Forensics
+- Memory Forensics Fundamentals
+- Disk Forensics
+- Incident Investigation
+- Timeline Analysis
+
+**Active Directory Security**
+
+- Active Directory Fundamentals
+- Windows Domain Security
+- Kerberos Authentication
+- Group Policy Security
+- Identity and Access Management
+- Directory Enumeration
+
+**Vulnerability Management**
+
+- Nessus
+- Vulnerability Scanning
+- CVE / CVSS
+- Vulnerability Prioritization
+- Security Assessment Reporting
+- Remediation Validation
+
+</details>
+
+## 03. ADVANCED — SECURITY ENGINEERING & RESEARCH
+
+<details open>
+<summary><b>Advanced Offensive Security, Defensive Security & Research</b></summary>
+<br/>
+
+**🔴 Advanced Red Team & Adversary Simulation**
+
+- Advanced Penetration Testing
+- Red Team Operations
+- Purple Team Exercises
+- Active Directory Attack Paths
+- Privilege Escalation
+- Exploit Development
+- Binary Exploitation
+- Buffer Overflow Analysis
+- Reverse Engineering
+- Malware Analysis
+- Command and Control Concepts
+- Adversary Emulation
+- Post-Exploitation Analysis
+- Evasion Techniques and Detection Research
+
+**Advanced Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase" />
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" height="48" />
+<img src="https://img.shields.io/badge/Ghidra-Reverse_Engineering-BA4A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BloodHound-AD_Security-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Impacket-Network_Security-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GDB-Binary_Analysis-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Volatility-Memory_Forensics-008080?style=for-the-badge"/>
 </p>
 
-**Focus:** Database Security, Query Optimization, Data Modeling, Access Control and Secure Data Management.
+**🔵 Advanced Blue Team & Threat Intelligence**
 
-### ☁️ Cloud, DevSecOps & Infrastructure
+- Advanced Threat Hunting
+- Threat Intelligence Platforms
+- MITRE ATT&CK Mapping
+- Detection Engineering
+- Sigma Detection Rules
+- YARA Rules
+- Security Orchestration, Automation and Response (SOAR)
+- Endpoint Detection & Response (EDR)
+- Extended Detection & Response (XDR)
+- Malware Reverse Engineering
+- Advanced Incident Response
+- Digital Forensics & Incident Response (DFIR)
+- Threat Actor Analysis
+- Security Telemetry & Log Correlation
+
+**Security Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare,netlify,linux" />
+<img src="https://img.shields.io/badge/CrowdStrike-Falcon-E01F3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wazuh-SIEM-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-Enterprise-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YARA-Malware_Analysis-8B5CF6?style=for-the-badge"/>
 </p>
 
-**Learning areas:** AWS Security, IAM, Cloud Networking, Docker Security, Kubernetes Security, CI/CD Security, Infrastructure as Code, Container Security and Cloud Monitoring.
-
-### 🛠️ Developer & Security Tools
+**☁️ Cloud Security & Infrastructure Protection**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,docker" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+</p>
+
+- AWS Security Architecture
+- Microsoft Azure Security
+- Google Cloud Security
+- Cloud Identity & Access Management
+- Cloud Network Security
+- Cloud Workload Protection
+- Cloud Security Posture Management (CSPM)
+- Cloud Logging & Monitoring
+- Zero Trust Architecture
+- Infrastructure Hardening
+- Secrets Management
+- Cloud Incident Response
+
+**Cloud Security Technologies**
+
+- AWS IAM
+- AWS CloudTrail
+- AWS GuardDuty
+- AWS Security Hub
+- Microsoft Defender for Cloud
+- Azure Entra ID
+- Google Cloud Security Command Center
+- Wiz
+
+**⚙️ DevSecOps & Container Security**
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins"/>
+</p>
+
+- DevSecOps Architecture
+- CI/CD Pipeline Security
+- Infrastructure as Code Security
+- Docker Security
+- Kubernetes Security
+- Container Image Scanning
+- Software Supply Chain Security
+- SAST / DAST / SCA
+- Secrets Detection
+- Dependency Vulnerability Management
+- Runtime Security
+- Policy as Code
+
+**Security Tools**
+
+- Trivy
+- Checkov
+- Semgrep
+- SonarQube
+- OWASP ZAP
+- GitHub Advanced Security
+- Falco
+- HashiCorp Vault
+- Open Policy Agent (OPA)
+
+**🔐 Advanced Identity & Security Architecture**
+
+- Zero Trust Security
+- Identity and Access Management (IAM)
+- Privileged Access Management (PAM)
+- Multi-Factor Authentication
+- Role-Based Access Control
+- Attribute-Based Access Control
+- Privilege Management
+- Identity Governance
+- Secure Authentication Architecture
+
+</details>
+
+## 04. AI / ML & ARTIFICIAL INTELLIGENCE SECURITY
+
+<details open>
+<summary><b>Machine Learning, Deep Learning, AI Security & Intelligent Threat Detection</b></summary>
+<br/>
+
+**Artificial Intelligence & Machine Learning**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="42"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42"/>
+</p>
+
+- Supervised & Unsupervised Learning
+- Classification & Regression
+- Clustering Algorithms
+- Anomaly Detection
+- Feature Engineering
+- Model Evaluation & Optimization
+- Deep Learning
+- Neural Networks
+- Natural Language Processing
+- Computer Vision
+- Time-Series Analysis
+- Data Analytics
+- Predictive Modelling
+
+**AI-Powered Cybersecurity**
+
+- Machine Learning-Based Intrusion Detection
+- Network Traffic Classification
+- Anomaly-Based Threat Detection
+- Malware Classification
+- Phishing Detection
+- Fraud Detection
+- Automated Threat Intelligence
+- Intelligent Security Analytics
+- AI-Assisted Security Operations
+
+**Advanced AI Security**
+
+- Adversarial Machine Learning
+- Adversarial Examples
+- Model Evasion & Poisoning
+- Model Security & Robustness
+- LLM Security
+- Prompt Injection
+- Retrieval-Augmented Generation (RAG) Security
+- AI Red Teaming
+- AI Governance & Risk Management
+- MITRE ATLAS
+- OWASP Top 10 for LLM Applications
+
+**AI Security Research Tools & Frameworks**
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face
+- MLflow
+- MITRE ATLAS
+- OWASP LLM Top 10
+
+</details>
+
+## 05. ADVANCED RESEARCH & EMERGING TECHNOLOGIES
+
+<details>
+<summary><b>Emerging Security Technologies</b></summary>
+<br/>
+
+- Post-Quantum Cryptography
+- Cryptographic Engineering
+- Hardware Security Fundamentals
+- Secure Systems Architecture
+- Privacy Engineering
+- Blockchain Security
+- Smart Contract Security
+- IoT Security
+- Embedded Systems Security
+- Firmware Analysis
+- Threat Modelling
+- Security Architecture
+- Supply Chain Security
+- Vulnerability Research
+- Responsible Vulnerability Disclosure
+- Security Automation
+- AI Safety & Security
+
+**Standards & Frameworks**
+
+- NIST Cybersecurity Framework
+- NIST SP 800 Series
+- ISO/IEC 27001
+- CIS Critical Security Controls
+- MITRE ATT&CK
+- MITRE D3FEND
+- MITRE ATLAS
+- OWASP Application Security Verification Standard
+- OWASP Top 10
+- CVE / CVSS
+
+</details>
+
+---
+
+# PROGRAMMING & SOFTWARE ENGINEERING
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,powershell"/>
+</p>
+
+**Frontend & Backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask,django,fastapi"/>
+</p>
+
+**Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase"/>
+</p>
+
+**Development & Infrastructure**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman,figma,cloudflare,netlify"/>
 </p>
 
 ---
 
-## FEATURED PROJECTS
-
-### 🛡️ AI-Powered Network Intrusion Detection System
-
-**Domain:** Cybersecurity | Artificial Intelligence | Network Security
-
-- Developing an ML-based network intrusion detection solution.
-- Exploring Random Forest, Decision Tree, KNN and Gradient Boosting.
-- Working with CICIDS2017 and NSL-KDD datasets.
-- Focused on identifying suspicious traffic and classifying attack categories.
-- Exploring real-time detection, monitoring and security alerts.
-
-**Technologies:** Python, Scikit-learn, Pandas, NumPy, Machine Learning, Network Security.
-
-### 🏥 Real-Time Oxygen Cylinder Availability Tracking System
-
-**Domain:** Healthcare Technology | Software Engineering
-
-- Developed a concept for monitoring oxygen cylinder availability across healthcare facilities.
-- Focused on availability status, refill tracking and resource management.
-- Designed to improve visibility of critical healthcare resources.
-
-**Technologies:** Python, HTML, CSS, JavaScript, Database Management.
-
-### 📊 Sales Analysis in the Textile Industry
-
-**Domain:** Data Analytics | Machine Learning Foundations
-
-- Performed data cleaning and exploratory data analysis.
-- Analyzed customer purchasing patterns and regional sales trends.
-- Used Python-based visualization and analytical techniques.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn.
-
----
-
-## 🏆 ACHIEVEMENTS & RECOGNITION
-
-- 🥇 **CorsairCTF 2026:** Achieved Top 6 position by completion time, completing all challenges with my teammate.
-- 🏅 **National-Level Paper Presentation:** Presented an AI-Powered Network Intrusion Detection System and achieved Top 10 recognition.
-- 🎓 **Youth Conclave – Digital India 2025:** Presented a Real-Time Oxygen Cylinder Availability Tracking System.
-- 🚀 **eDC IIT Delhi Campus Ambassador:** Contributed to BECon 2026 outreach and event promotion.
-- 🏅 **HackerRank:** Java Certification.
-- 🤖 **Gemini Certified University Student.**
-
----
-
-## 📚 CURRENT LEARNING & ADVANCED ROADMAP
-
-I'm continuously strengthening my technical foundation and working towards industry-ready cybersecurity and AI/ML skills.
-
-| Track | Skills to Develop |
-|---|---|
-| Red Team | Advanced Web Exploitation, Active Directory, Privilege Escalation, Exploit Development |
-| Blue Team | Splunk, Elastic SIEM, Threat Hunting, DFIR, Detection Engineering |
-| Application Security | API Pentesting, Secure Code Review, SAST, DAST |
-| Cloud Security | AWS IAM, CloudTrail, GuardDuty, Kubernetes Security |
-| AI Security | Adversarial ML, LLM Security, AI Red Teaming, MITRE ATLAS |
-| Security Engineering | Python Automation, Secure Architecture, DevSecOps |
-| Research | Vulnerability Research, Responsible Disclosure, Security Analysis |
-
-**Hands-on learning platforms:**
-
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [TryHackMe](https://tryhackme.com/)
-- [Hack The Box](https://www.hackthebox.com/)
-- [OWASP](https://owasp.org/)
-- [MITRE ATT&CK](https://attack.mitre.org/)
-- [CyberDefenders](https://cyberdefenders.org/)
-- [Google Cloud Skills](https://www.cloudskillsboost.google/)
-
----
-
-## 🎯 CAREER INTERESTS
-
-I'm interested in opportunities and collaborations in:
-
-- Cybersecurity Engineering
-- Security Research
-- Penetration Testing & Red Team
-- SOC Analyst & Blue Team
-- Application Security Engineering
-- Cloud Security Engineering
-- AI/ML Engineering
-- AI Security Research
-
----
-
-## 🤝 CONNECT WITH ME
+# SECURITY LEARNING & RESEARCH PLATFORMS
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamshiga">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/vamshi7879">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@vamshi-indus">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" alt="YouTube"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vamshiga06@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>GitHub:</b> <a href="https://github.com/vamshi7879">vamshi7879</a><br/>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/vamshiga">vamshiga</a><br/>
-  <b>YouTube:</b> <a href="https://www.youtube.com/@vamshi-indus">@vamshi-indus</a><br/>
-  <b>Email:</b> <a href="mailto:vamshiga06@gmail.com">vamshiga06@gmail.com</a>
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-Web_Security-FF6633?style=for-the-badge"/></a>
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Cyber_Labs-212C42?style=for-the-badge"/></a>
+<a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack_The_Box-Penetration_Testing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+<a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP-Application_Security-000000?style=for-the-badge&logo=owasp"/></a>
+<a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/MITRE-ATT%26CK-BA1B1D?style=for-the-badge"/></a>
+<a href="https://www.cyberdefenders.org/"><img src="https://img.shields.io/badge/CyberDefenders-Blue_Team-0078D4?style=for-the-badge"/></a>
 </p>
 
 ---
 
-## 📊 GITHUB STATISTICS
+# CONNECT WITH ME
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamshi7879&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi7879&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://www.linkedin.com/in/vamshiga">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/vamshi7879">
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@vamshi-indus">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" alt="YouTube"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:vamshiga06@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" alt="Gmail"/>
+</a>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi7879&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://www.linkedin.com/in/vamshiga">LinkedIn</a> |
+<a href="https://github.com/vamshi7879">GitHub</a> |
+<a href="https://www.youtube.com/@vamshi-indus">YouTube</a> |
+<a href="mailto:vamshiga06@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🏆 GITHUB TROPHIES
+# GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamshi7879&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamshi7879&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi7879&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi7879&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+# GITHUB TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vamshi7879&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+# CONTRIBUTION ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi7879&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 💻 CONTRIBUTION ACTIVITY
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi7879&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+<b>THINK LIKE AN ATTACKER. ENGINEER LIKE A DEFENDER.</b>
+<br/>
+<i>Building intelligent security for an evolving digital world.</i>
 </p>
 
----
-
-<p align="center">
-  <b>Building. Breaking. Defending. Innovating.</b>
-  <br/>
-  <i>Securing the digital future through cybersecurity and intelligent technology.</i>
-</p>
-
-<!-- End of Profile README -->
+<!-- END OF PROFILE README -->
