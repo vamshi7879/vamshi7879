@@ -38,25 +38,39 @@
 ## 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamshiga">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/vamshiga" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/vamshi7879">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vamshi7879" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com/@vamshi-indus">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@vamshi-indus" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" height="45" alt="YouTube"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:vamshiga06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/vamshiga">vamshiga</a> |
-  <b>GitHub:</b> <a href="https://github.com/vamshi7879">vamshi7879</a> |
-  <b>YouTube:</b> <a href="https://www.youtube.com/@vamshi-indus">@vamshi-indus</a>
+  <b>LinkedIn</b> &nbsp; | &nbsp;
+  <b>GitHub</b> &nbsp; | &nbsp;
+  <b>YouTube</b> &nbsp; | &nbsp;
+  <b>Email</b>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vamshiga">vamshiga</a> •
+  <a href="https://github.com/vamshi7879">vamshi7879</a> •
+  <a href="https://www.youtube.com/@vamshi-indus">@vamshi-indus</a> •
+  <a href="mailto:vamshiga06@gmail.com">Contact Me</a>
+</p>
+
+
+
 
 ---
 
@@ -202,28 +216,42 @@
 ## 🎯 CYBERSECURITY PRACTICE & PROFILES
 
 <p align="center">
-  <a href="https://tryhackme.com/p/vamshiga06">
-    <img src="https://img.shields.io/badge/TryHackMe-View%20My%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <a href="https://tryhackme.com/p/vamshiga06" target="_blank">
+    <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="55" height="55" alt="TryHackMe"/>
   </a>
-  <a href="https://profile.hackthebox.com/profile/01a1fd49-c401-73d6-9daf-d439b3137784">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-View%20My%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://profile.hackthebox.com/profile/01a1fd49-c401-73d6-9daf-d439b3137784" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="55" height="55" alt="Hack The Box"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://portswigger.net/web-security">
-    <img src="https://img.shields.io/badge/PortSwigger-Web%20Security-FF6633?style=for-the-badge"/>
+  <a href="https://portswigger.net/web-security" target="_blank">
+    <img src="https://cdn.simpleicons.org/portswigger/FF6633" width="45" height="45" alt="PortSwigger"/>
   </a>
-  <a href="https://cyberdefenders.org/">
-    <img src="https://img.shields.io/badge/CyberDefenders-Blue%20Team-0078D4?style=for-the-badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://cyberdefenders.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cyberdefenders/00AEEF" width="45" height="45" alt="CyberDefenders"/>
   </a>
-  <a href="https://owasp.org/">
-    <img src="https://img.shields.io/badge/OWASP-Application%20Security-000000?style=for-the-badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://owasp.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="45" height="45" alt="OWASP"/>
   </a>
-  <a href="https://attack.mitre.org/">
-    <img src="https://img.shields.io/badge/MITRE-ATT%26CK-BA1B1D?style=for-the-badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://attack.mitre.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mitre/BA1B1D" width="45" height="45" alt="MITRE ATT&CK"/>
   </a>
 </p>
+
+<p align="center">
+  <b>TryHackMe</b> &nbsp; | &nbsp;
+  <b>Hack The Box</b> &nbsp; | &nbsp;
+  <b>PortSwigger</b> &nbsp; | &nbsp;
+  <b>CyberDefenders</b> &nbsp; | &nbsp;
+  <b>OWASP</b> &nbsp; | &nbsp;
+  <b>MITRE ATT&CK</b>
+</p>
+
 
 ---
 
