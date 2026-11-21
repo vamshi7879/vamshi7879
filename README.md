@@ -63,18 +63,11 @@
 ## ⚔️ CYBERSECURITY DOMAINS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RED%20TEAM-Offensive%20Security-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BLUE%20TEAM-Defensive%20Security-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PURPLE%20TEAM-Security%20Operations-purple?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-FF6633?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Threat%20Detection-0078D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20Security-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DFIR-00A86B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DevSecOps-333333?style=flat-square"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/parrotsecurity/00A3E0" height="45" alt="Parrot Security"/>
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="45" alt="Metasploit"/>
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="45" alt="TryHackMe"/>
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="45" alt="Hack The Box"/>
 </p>
 
 ---
