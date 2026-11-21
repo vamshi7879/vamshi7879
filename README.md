@@ -113,52 +113,53 @@
 
 ### 🔴 Offensive Security & Penetration Testing
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FFUF-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gobuster-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nuclei-5B3FD0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hydra-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hashcat-333333?style=for-the-badge"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="35" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="35" alt="Metasploit"/>
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="35" alt="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="35" alt="OWASP"/>
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="35" alt="TryHackMe"/>
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="35" alt="Hack The Box"/>
 </p>
 
 ### 🔵 Blue Team, SOC & Network Security
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zeek-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security%20Onion-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/splunk/000000" height="35" alt="Splunk"/>
+  <img src="https://cdn.simpleicons.org/wazuh/0266B3" height="35" alt="Wazuh"/>
+  <img src="https://cdn.simpleicons.org/elastic/005571" height="35" alt="Elastic"/>
+  <img src="https://cdn.simpleicons.org/microsoft/737373" height="35" alt="Microsoft"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="35" alt="Wireshark"/>
+</p>
+
+### 🟣 PURPLE TEAM — Security Operations
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mitre/ED1B2F" height="35" alt="MITRE"/>
+  <img src="https://cdn.simpleicons.org/atomicredteam/FF0000" height="35" alt="Atomic Red Team"/>
+  <img src="https://cdn.simpleicons.org/splunk/000000" height="35" alt="Splunk"/>
+  <img src="https://cdn.simpleicons.org/elastic/005571" height="35" alt="Elastic"/>
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="35" alt="OWASP"/>
 </p>
 
 ### 🧬 Digital Forensics & Malware Analysis
 
-<p>
-  <img src="https://img.shields.io/badge/Ghidra-BB0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Autopsy-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Volatility-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YARA-8B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDB-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REMnux-222222?style=for-the-badge"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="35" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/volatility/0078D4" height="35" alt="Volatility"/>
+  <img src="https://cdn.simpleicons.org/thehive/FA7D00" height="35" alt="TheHive"/>
 </p>
 
 ### ☁️ Cloud & DevSecOps Security
 
-<p>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Semgrep-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gitleaks-CC3333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Checkov-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker%20Security-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="Microsoft Azure"/>
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="Google Cloud"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes"/>
 </p>
 
 ---
