@@ -20,7 +20,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-🎓 Cybersecurity & Information Security Student at **GM University, India**.
+🎓 Cybersecurity at **GM University Davangere , India**.
 
 🔐 Exploring the intersection of cybersecurity, artificial intelligence and secure software engineering.
 
