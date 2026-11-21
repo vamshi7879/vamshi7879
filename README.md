@@ -211,12 +211,10 @@
 ## 🏆 ACHIEVEMENTS & RECOGNITION
 
 - 🥇 **CorsairCTF 2026** — Top 6 by completion time; completed all challenges.
-- 🏅 **AI-Powered NIDS** — Top 10 in a national-level paper presentation.
+- 🏅 **AI-Powered NIDS** — Top 10 in a State -level paper presentation.
 - 🎓 **eDC IIT Delhi** — Campus Ambassador, BECon 2026.
 - 📝 **Youth Conclave – Digital India 2025** — National-level paper presentation.
-- 💻 **GMU Mini Hackathon** — Participant.
-- 📜 **HackerRank** — Java Certification.
-- 🤖 **Gemini Certified University Student**.
+  
 
 ---
 
