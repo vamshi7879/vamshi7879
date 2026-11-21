@@ -34,6 +34,7 @@
 **🎯 Mission:** Think like an attacker. Engineer like a defender.
 
 ---
+
 ## 🤝 CONNECT WITH ME
 
 <p align="center">
@@ -58,7 +59,6 @@
 </p>
 
 ---
-
 
 ## ⚔️ CYBERSECURITY DOMAINS
 
@@ -117,7 +117,7 @@
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="35" alt="Kali Linux"/>
   <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="35" alt="Metasploit"/>
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="35" alt="Burp Suite"/>
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="35" alt="OWASP"/>
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="35" alt="OWASP"/>
   <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="35" alt="TryHackMe"/>
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="35" alt="Hack The Box"/>
 </p>
@@ -125,21 +125,21 @@
 ### 🔵 Blue Team, SOC & Network Security
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/splunk/000000" height="35" alt="Splunk"/>
-  <img src="https://cdn.simpleicons.org/wazuh/0266B3" height="35" alt="Wazuh"/>
-  <img src="https://cdn.simpleicons.org/elastic/005571" height="35" alt="Elastic"/>
-  <img src="https://cdn.simpleicons.org/microsoft/737373" height="35" alt="Microsoft"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="35" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Wazuh-0266B3?style=for-the-badge&logoColor=white" height="35" alt="Wazuh"/>
+  <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="35" alt="Elastic"/>
+  <img src="https://img.shields.io/badge/Microsoft-737373?style=for-the-badge&logo=microsoft&logoColor=white" height="35" alt="Microsoft"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="35" alt="Wireshark"/>
 </p>
 
 ### 🟣 PURPLE TEAM — Security Operations
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mitre/ED1B2F" height="35" alt="MITRE"/>
-  <img src="https://cdn.simpleicons.org/atomicredteam/FF0000" height="35" alt="Atomic Red Team"/>
-  <img src="https://cdn.simpleicons.org/splunk/000000" height="35" alt="Splunk"/>
-  <img src="https://cdn.simpleicons.org/elastic/005571" height="35" alt="Elastic"/>
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="35" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/MITRE-ED1B2F?style=for-the-badge&logoColor=white" height="35" alt="MITRE"/>
+  <img src="https://img.shields.io/badge/Atomic_Red_Team-FF0000?style=for-the-badge&logoColor=white" height="35" alt="Atomic Red Team"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="35" alt="Splunk"/>
+  <img src="https://cdn.simpleicons.org/elastic/00BFB3" height="35" alt="Elastic"/>
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="35" alt="OWASP"/>
 </p>
 
 ### 🧬 Digital Forensics & Malware Analysis
@@ -147,15 +147,15 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="35" alt="Wireshark"/>
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/volatility/0078D4" height="35" alt="Volatility"/>
-  <img src="https://cdn.simpleicons.org/thehive/FA7D00" height="35" alt="TheHive"/>
+  <img src="https://img.shields.io/badge/Volatility-0078D4?style=for-the-badge&logoColor=white" height="35" alt="Volatility"/>
+  <img src="https://img.shields.io/badge/TheHive-FA7D00?style=for-the-badge&logoColor=white" height="35" alt="TheHive"/>
 </p>
 
 ### ☁️ Cloud & DevSecOps Security
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="40" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" alt="Microsoft Azure"/>
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="Google Cloud"/>
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"/>
@@ -233,7 +233,6 @@
 - 🏅 **AI-Powered NIDS** — Top 10 in a State -level paper presentation.
 - 🎓 **eDC IIT Delhi** — Campus Ambassador, BECon 2026.
 - 📝 **Youth Conclave – Digital India 2025** — National-level paper presentation.
-  
 
 ---
 
@@ -277,7 +276,6 @@
 </p>
 
 ---
-
 
 <h3 align="center">⚡ THINK LIKE AN ATTACKER. ENGINEER LIKE A DEFENDER. ⚡</h3>
 
