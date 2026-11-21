@@ -34,6 +34,31 @@
 **🎯 Mission:** Think like an attacker. Engineer like a defender.
 
 ---
+## 🤝 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vamshiga">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vamshi7879">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@vamshi-indus">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:vamshiga06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/vamshiga">vamshiga</a> |
+  <b>GitHub:</b> <a href="https://github.com/vamshi7879">vamshi7879</a> |
+  <b>YouTube:</b> <a href="https://www.youtube.com/@vamshi-indus">@vamshi-indus</a>
+</p>
+
+---
+
 
 ## ⚔️ CYBERSECURITY DOMAINS
 
@@ -259,30 +284,6 @@
 
 ---
 
-## 🤝 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vamshiga">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vamshi7879">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@vamshi-indus">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:vamshiga06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/vamshiga">vamshiga</a> |
-  <b>GitHub:</b> <a href="https://github.com/vamshi7879">vamshi7879</a> |
-  <b>YouTube:</b> <a href="https://www.youtube.com/@vamshi-indus">@vamshi-indus</a>
-</p>
-
----
 
 <h3 align="center">⚡ THINK LIKE AN ATTACKER. ENGINEER LIKE A DEFENDER. ⚡</h3>
 
