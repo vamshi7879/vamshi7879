@@ -38,11 +38,10 @@
 ## 🤝 CONNECT WITH ME
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vamshiga" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-       height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vamshiga">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vamshi7879" target="_blank">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
