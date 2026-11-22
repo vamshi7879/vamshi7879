@@ -238,9 +238,8 @@
     <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="45" height="45" alt="OWASP"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://attack.mitre.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://attack.mitre.org/theme/images/attack-logo-black.png"
-       height="45" alt="MITRE ATT&CK"/>
+   <a href="https://attack.mitre.org/" target="_blank">
+  <img src="assets/mitre-attack.png" height="45" alt="MITRE ATT&CK"/>
 </a>
 </p>
 
