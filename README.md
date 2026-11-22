@@ -239,7 +239,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
    <a href="https://attack.mitre.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://attack.mitre.org/theme/images/mitre_attack_logo.svg"
+  <img src="https://attack.mitre.org/theme/images/attack-logo-black.png"
        height="45" alt="MITRE ATT&CK"/>
 </a>
 </p>
