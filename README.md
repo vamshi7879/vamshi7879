@@ -4,7 +4,7 @@
 
 <h1 align="center">VAMSHI G A</h1>
 
-<h3 align="center">⚡ Cybersecurity | AI/ML | Security Research</h3>
+<h3 align="center"> Cybersecurity | AI/ML | Security Research</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Offensive+Security+%7C+Defensive+Security;Red+Team+%7C+Blue+Team+%7C+Purple+Team;Penetration+Testing+%7C+Threat+Detection;Cloud+Security+%7C+DevSecOps;AI%2FML+%7C+AI+Security+Research;Building+%2E+Learning+%2E+Securing" alt="Typing SVG"/>
@@ -18,28 +18,28 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+##  ABOUT ME
 
-🎓 Cybersecurity Student at **GM University Davangere , India**.
+ Cybersecurity Student at **GM University Davangere , India**.
 
-🔐 Exploring the intersection of cybersecurity, artificial intelligence and secure software engineering.
+ Exploring the intersection of cybersecurity, artificial intelligence and secure software engineering.
 
-- 🔴 Offensive Security & Ethical Hacking
-- 🔵 SOC Operations & Defensive Security
-- 🛡️ Application Security & Vulnerability Research
-- ☁️ Cloud Security & DevSecOps
-- 🤖 AI/ML-Powered Cybersecurity
-- 🔬 Security Research & Open Source
+-  Offensive Security & Ethical Hacking
+-  SOC Operations & Defensive Security
+-  Application Security & Vulnerability Research
+-  Cloud Security & DevSecOps
+-  AI/ML-Powered Cybersecurity
+-  Security Research & Open Source
 
-**🎯 Mission:** Think like an attacker. Engineer like a defender.
+** Mission:** Think like an attacker. Engineer like a defender.
 
 ---
 
-## 🤝 CONNECT WITH ME
+##  CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vamshiga">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vamshi7879" target="_blank">
@@ -74,7 +74,7 @@
 
 ---
 
-## ⚔️ CYBERSECURITY DOMAINS
+##  CYBERSECURITY DOMAINS
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali Linux"/>
@@ -86,27 +86,27 @@
 
 ---
 
-## 🧰 TECH STACK
+##  TECH STACK
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash,powershell&perline=8"/>
 </p>
 
-### 🖥️ Operating Systems
+###  Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&perline=8"/>
 </p>
 
-### 🌐 Web Development & Databases
+###  Web Development & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,sqlite,neo4j&perline=8"/>
 </p>
 
-### 🧠 AI / ML & Data Science
+###  AI / ML & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8"/>
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### ☁️ Cloud, DevOps & Development
+###  Cloud, DevOps & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,cloudflare,git,github,vscode,postman&perline=8"/>
@@ -123,9 +123,9 @@
 
 ---
 
-## 🛡️ CYBERSECURITY ARSENAL
+##  CYBERSECURITY ARSENAL
 
-### 🔴 Offensive Security & Penetration Testing
+###  Offensive Security & Penetration Testing
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="35" alt="Kali Linux"/>
@@ -136,7 +136,7 @@
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="35" alt="Hack The Box"/>
 </p>
 
-### 🔵 Blue Team, SOC & Network Security
+###   Blue Team, SOC & Network Security
 
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="35" alt="Splunk"/>
@@ -146,7 +146,7 @@
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="35" alt="Wireshark"/>
 </p>
 
-### 🟣 PURPLE TEAM — Security Operations
+###   PURPLE TEAM — Security Operations
 
 <p align="center">
   <img src="https://img.shields.io/badge/MITRE-ED1B2F?style=for-the-badge&logoColor=white" height="35" alt="MITRE"/>
@@ -156,7 +156,7 @@
   <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="35" alt="OWASP"/>
 </p>
 
-### 🧬 Digital Forensics & Malware Analysis
+###   Digital Forensics & Malware Analysis
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="35" alt="Wireshark"/>
@@ -165,7 +165,7 @@
   <img src="https://img.shields.io/badge/TheHive-FA7D00?style=for-the-badge&logoColor=white" height="35" alt="TheHive"/>
 </p>
 
-### ☁️ Cloud & DevSecOps Security
+###   Cloud & DevSecOps Security
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="40" alt="AWS"/>
@@ -178,9 +178,9 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+##   FEATURED PROJECTS
 
-### 1. 🛡️ AI-Powered Network Intrusion Detection System (NIDS)
+### 1.  AI-Powered Network Intrusion Detection System (NIDS)
 
 `Python` `Scikit-learn` `Machine Learning` `MongoDB`
 
@@ -188,7 +188,7 @@
 - Implemented and evaluated four machine learning algorithms: Random Forest, Decision Tree, K-Nearest Neighbors (KNN), and Gradient Boosting.
 - Integrated MongoDB for detection log storage and an automated alert mechanism to support security monitoring and analysis.
 
-### 2. 🔍 SecureCodeAudit – Automated Source Code Security Auditing Tool
+### 2.  SecureCodeAudit – Automated Source Code Security Auditing Tool
 
 `Python` `Flask` `JavaScript` `SQLite` `ReportLab`
 
@@ -196,7 +196,7 @@
 - Integrated OSV-based dependency vulnerability scanning.
 - Implemented automated security report generation with PDF, CSV and JSON export capabilities.
 
-### 3. 🌐 Man-in-the-Middle (MITM) Packet Sniffer & HTTPS Warning System
+### 3.  Man-in-the-Middle (MITM) Packet Sniffer & HTTPS Warning System
 
 <sup>🚧 IN PROGRESS</sup>
 
@@ -213,7 +213,7 @@
 
 ---
 
-## 🎯 CYBERSECURITY PRACTICE & PROFILES
+##  CYBERSECURITY PRACTICE & PROFILES
 
 <p align="center">
   <a href="https://tryhackme.com/p/vamshiga06" target="_blank">
@@ -256,16 +256,16 @@
 
 ---
 
-## 🏆 ACHIEVEMENTS & RECOGNITION
+##  ACHIEVEMENTS & RECOGNITION
 
-- 🥇 **CorsairCTF 2026** — Top 6 by completion time; completed all challenges.
-- 🏅 **AI-Powered NIDS** — Top 10 in a State -level paper presentation.
-- 🎓 **eDC IIT Delhi** — Campus Ambassador, BECon 2026.
-- 📝 **Youth Conclave – Digital India 2025** — National-level paper presentation.
+-  **CorsairCTF 2026** — Top 6 by completion time; completed all challenges.
+-  **AI-Powered NIDS** — Top 10 in a State -level paper presentation.
+-  **eDC IIT Delhi** — Campus Ambassador, BECon 2026.
+-  **Youth Conclave – Digital India 2025** — National-level paper presentation.
 
 ---
 
-## 📚 CURRENTLY EXPLORING
+##  CURRENTLY EXPLORING
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Application%20Security-FF6633?style=for-the-badge"/>
@@ -277,7 +277,7 @@
 
 ---
 
-## 📊 GITHUB STATISTICS
+##  GITHUB STATISTICS
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamshi7879&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
@@ -290,7 +290,7 @@
 
 ---
 
-## 🏅 GITHUB TROPHIES
+##  GITHUB TROPHIES
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vamshi7879&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
@@ -298,7 +298,7 @@
 
 ---
 
-## 📈 CONTRIBUTION GRAPH
+##  CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi7879&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
@@ -306,12 +306,12 @@
 
 ---
 
-<h3 align="center">⚡ THINK LIKE AN ATTACKER. ENGINEER LIKE A DEFENDER. ⚡</h3>
+<h3 align="center"> THINK LIKE AN ATTACKER. ENGINEER LIKE A DEFENDER. </h3>
 
 <p align="center">
   <i>Building secure systems. Exploring emerging threats. Engineering intelligent defense.</i>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <b>Thanks for visiting my profile! </b>
 </p>
