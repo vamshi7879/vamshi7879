@@ -38,10 +38,11 @@
 ## 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamshiga" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/vamshiga" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+       width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vamshi7879" target="_blank">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
@@ -238,9 +239,10 @@
     <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="45" height="45" alt="OWASP"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://attack.mitre.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mitre/BA1B1D" width="45" height="45" alt="MITRE ATT&CK"/>
-  </a>
+  <a href="https://attack.mitre.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://attack.mitre.org/theme/images/mitre_attack_logo.png"
+       width="90" height="45" alt="MITRE ATT&CK"/>
+</a>
 </p>
 
 <p align="center">
