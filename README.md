@@ -239,7 +239,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
    <a href="https://attack.mitre.org/" target="_blank">
-  <img src="assets/mitre-attack.png" height="45" alt="MITRE ATT&CK"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-BA1B1D?style=for-the-badge&logo=target&logoColor=white"
+       height="40" alt="MITRE ATT&CK"/>
 </a>
 </p>
 
